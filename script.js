@@ -103,3 +103,4 @@ function draw() {
 }
 
 setInterval(draw, 10);
+let kk = 0;
